@@ -1,6 +1,11 @@
 # Rule-Engine-with-AST
 This application is a powerful rule engine designed to determine user eligibility based on various attributes such as age, department, salary, and experience. By leveraging an Abstract Syntax Tree (AST), the engine represents and manages complex conditional rules, allowing for the dynamic creation, combination, and evaluation of rules. The AST structure provides flexibility and efficiency in rule processing, making it easy to handle changing business logic and scenarios in real time.
 
+![Rule-Engine-with-AST](https://github.com/vaibhavi-roy/Rule-Engine-with-AST/blob/main/rule1.png)
+![Rule-Engine-with-AST](https://github.com/vaibhavi-roy/Rule-Engine-with-AST/blob/main/rule2.png)
+![Rule-Engine-with-AST](https://github.com/vaibhavi-roy/Rule-Engine-with-AST/blob/main/rule3.png)
+![Rule-Engine-with-AST](https://github.com/vaibhavi-roy/Rule-Engine-with-AST/blob/main/rule4.png)
+![Rule-Engine-with-AST](https://github.com/vaibhavi-roy/Rule-Engine-with-AST/blob/main/rule5.png)
 ---
 
 ## Features
